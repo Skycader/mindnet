@@ -1,2 +1,2 @@
 # mindnet
-Supposed to help you bild your mind palace.
+Supposed to help you build your mind palace.
